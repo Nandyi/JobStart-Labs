@@ -1,0 +1,107 @@
+﻿https://injiniedtech.medium.com/my-job-pass-upskilling-graduates-and-connecting-them-to-employers-e244fad3da55
+https://www.nibusinessinfo.co.uk/content/jobstart
+https://www.nibusinessinfo.co.uk/content/work-experience-programme
+
+
+Young people struggling to find jobs after they leave school is still a persistent problem. The country is not able to absorb all new entrants to the job market or reduce their entry into the informal market. Creating wage jobs for the youth is critical to help reduce poverty and income inequality in the country.
+Key Points
+* One in four young people are not in employment, education, or training.
+* One in two young women with high school education or less are not in employment, education, or training.
+* Creating wage jobs for the youth is critical to help reduce poverty and income inequality in the country.
+* Active labor market programs encourage employment creation and employability of workers, increase their earning capacity, and enhance integration into the productive workforce.
+Youth must be at least a high school graduate with 0- 12 month’s work experience. They may not be currently employed or are enrolled in school or in any training, but actively seeking work. 
+ILO Research
+Skills development strategies are high on the priority list of countries in all stages of development, for at least three reasons:
+* Skills matching : to better forecast and match the provision of skills, both in terms of relevance and quality, with labour market needs;
+* Skills upgrading : to adjust skills development programmes and institutions to technological developments and changes in labour markets so that workers and enterprises can move from shrinking, low-productivity economic sectors and professions to expanding, high-productivity sectors and occupations. Such adaptation requires permanent and regular re-skilling, skills upgrading and lifelong learning for workers to maintain their employability and enterprises to remain competitive; and
+* Skills for society : to build up capabilities and knowledge systems within the economy and society which induce and maintain a sustainable process of economic and social development. 
+The ILO's work on skills development has in recent years focused primarily on three areas:
+* linking training to current labour market needs as well as anticipating and building competencies for the jobs of the future;
+* building quality apprenticeship systems and incorporating core skills into training for young people; and expanding access to employment-related training in rural communities to improve livelihoods, and reduce poverty; and
+* equipping women and men to work in the formal economy.40 
+List of skills to focus on that are highly demanded at entry into the workforce
+* Communication Skills:
+   * Written communication: Email etiquette, professional correspondence, and messaging platforms.
+   * Verbal communication: Phone etiquette, active listening, and conveying information clearly and concisely.
+* Customer Service Skills:
+   * Handling inquiries: Addressing customer questions, concerns, and complaints effectively.
+   * Problem-solving: Identifying issues, troubleshooting, and finding solutions to customer problems.
+   * Empathy and patience: Understanding customer needs and providing support with a positive attitude.
+* Technical Proficiency:
+   * Basic computer skills: Operating systems, file management, and using office productivity software (e.g., Microsoft Office suite, Google Workspace).
+   * Internet research: Finding information efficiently using search engines and online databases.
+   * Familiarity with digital tools: CRM software, project management tools, and collaboration platforms.
+* Time Management and Organization:
+   * Prioritization: Managing tasks and deadlines, determining urgency, and allocating time effectively.
+   * Multitasking: Juggling multiple responsibilities while maintaining accuracy and attention to detail.
+   * Calendar management: Scheduling appointments, meetings, and reminders using digital calendars and scheduling tools.
+* Data Entry and Processing:
+   * Accuracy and speed: Entering data accurately and efficiently into databases, spreadsheets, or other software systems.
+   * Data verification: Reviewing and validating data to ensure completeness and accuracy.
+   * Data confidentiality: Maintaining confidentiality and security of sensitive information.
+* Problem-solving and Decision-making:
+   * Critical thinking: Analyzing information, identifying patterns, and making logical decisions.
+   * Adaptability: Flexibility in handling unexpected situations and adjusting to changing priorities.
+   * Initiative: Taking proactive steps to address problems or improve processes without direct supervision.
+* Digital Literacy:
+   * Internet safety and security: Understanding common online threats and best practices for staying safe online.
+   * Digital privacy: Protecting personal and sensitive information while using digital tools and platforms.
+   * Cybersecurity awareness: Recognizing phishing attempts, malware, and other cyber threats.
+* Professionalism and Ethics:
+   * Ethical conduct: Adhering to professional standards, confidentiality agreements, and company policies.
+   * Professional appearance and demeanor: Presenting oneself professionally in both virtual and physical environments.
+   * Workplace etiquette: Respecting colleagues, supervisors, and company culture norms.
+* Remote Work Skills:
+   * Remote collaboration: Communicating effectively with team members and stakeholders in virtual environments.
+   * Time management in remote settings: Maintaining productivity and work-life balance while working from home.
+   * Tech troubleshooting: Resolving common technical issues related to remote work setups and digital tools.
+* Continuous Learning and Adaptation:
+   * Willingness to learn: Embracing opportunities for professional development and staying updated on industry trends.
+   * Adaptability: Being open to change and willing to acquire new skills as technology and job requirements evolve.
+   * Self-directed learning: Taking initiative to seek out resources and training to enhance skills independently.
+By focusing on these skills in your training programs, you can prepare graduates for entry-level digital assistant roles across various industries, ensuring they have the necessary competencies to succeed in the rapidly evolving workplace.
+
+
+"Welcome to JobStart Labs, where we believe every career journey begins with the right skills and support. At JobStart Labs, we're dedicated to empowering individuals like you to kickstart your career or make a successful transition into new fields.
+Our innovative training programs are designed to equip you with the essential skills and confidence needed to excel in today's competitive job market. Whether you're a recent graduate looking to land your first job, a career changer seeking a fresh start, or someone ready to re-enter the workforce, JobStart Labs is here to guide you every step of the way.
+* JobStart Labs online platform might look:
+* Homepage:
+   * Header with logo, navigation menu, and login/signup buttons.
+   * Hero section featuring a welcome message, mission statement, and a call-to-action button to explore courses.
+   * Featured courses section showcasing popular or newly added training programs.
+   * Testimonials or success stories from past participants.
+   * Footer with links to important pages, social media icons, and contact information.
+* Course Catalog:
+   * Search bar and filters to narrow down courses by category, industry, skill level, etc.
+   * Course listings with titles, brief descriptions, instructor names, and ratings.
+   * Thumbnail images or icons representing each course.
+   * "Enroll Now" buttons linking to individual course pages.
+* Course Page:
+   * Course title, instructor name, and course duration displayed prominently.
+   * Overview of the course curriculum, including modules, topics, and learning objectives.
+   * Instructor bio and qualifications.
+   * Pricing information, enrollment options, and any available discounts or promotions.
+   * Student reviews and ratings.
+   * Additional resources or supplementary materials.
+* User Dashboard (for logged-in users):
+   * Welcome message addressing the user by name.
+   * Progress tracker displaying completed modules or courses, current enrollments, and upcoming deadlines.
+   * Access to course materials, assignments, quizzes, and discussion forums.
+   * Personalized recommendations based on user's interests and learning history.
+   * Profile settings and account management options.
+* Resource Library:
+   * Categories or tags for organizing resources (e.g., articles, videos, ebooks).
+   * Search bar and filters to find specific resources.
+   * Thumbnail images and brief descriptions of each resource.
+   * Download or bookmark buttons for saving resources to user's account.
+* Career Services:
+   * Job listings or internship opportunities relevant to the user's skills and interests.
+   * Resume writing tips, interview preparation guides, and career development articles.
+   * Virtual career fairs, networking events, and industry-specific webinars.
+   * Contact form or booking calendar for scheduling one-on-one career coaching sessions.
+* Community Hub:
+   * Discussion forums categorized by topic or course.
+   * Mentorship program matching users with experienced professionals.
+   * User-generated content such as blog posts, success stories, or project showcases.
+   * Networking events calendar and RSVP options.
+This outline provides a basic structure for the JobStart Labs online platform. Actual design elements, layouts, and functionalities would require further development by a web designer and developer.
